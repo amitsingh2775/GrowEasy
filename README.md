@@ -45,12 +45,12 @@ First-time users must **sign up**, returning users must **login**.
 - Users can create todos and mark them **completed**  
 - Edit or delete existing tasks  
 
-![Dashboard](<img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/c99e0a4a-58d1-45ee-aa3e-c5832896bcc1" />
+![Dashboard] (<img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/c99e0a4a-58d1-45ee-aa3e-c5832896bcc1" />
 )  
-![Add Task](<img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/f0db75a0-171b-450d-bf0e-8ebb978b4dba" />
+![Add Task] (<img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/f0db75a0-171b-450d-bf0e-8ebb978b4dba" />
 )  
-![Edit Task](<img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/086d3a0e-703e-46af-b91f-aa85899923b9" />
-)  
+![Edit Task] <img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/086d3a0e-703e-46af-b91f-aa85899923b9" />
+
 
 ### 3. Profile
 - Displays logged-in user profile details  
