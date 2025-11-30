@@ -20,7 +20,7 @@ export default function DashboardScreen() {
   const [newTodoTitle, setNewTodoTitle] = useState('');
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState('');
-  const [editingTodo, setEditingTodo] = useState<Todo | null>(null);
+  const [editingTodo, setEditingTodo] = useState<Todo>();
   const [editTitle, setEditTitle] = useState('');
 
   useEffect(() => {
@@ -73,7 +73,9 @@ export default function DashboardScreen() {
   };
 
   const handleEditTodo = async () => {
+    console.log("editing todo id:", editingTodo?.id);
     if (!token || !editingTodo || !editTitle.trim()) return;
+    console.log("Editing todo with id:", editingTodo.id);
 
     try {
       const updatedTodo = await api.todos.update(token, editingTodo.id, {
