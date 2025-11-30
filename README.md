@@ -36,9 +36,9 @@ The app demonstrates:
 ### 1. Login / Signup
 First-time users must **sign up**, returning users must **login**.  
 
-![Login Screen](<img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/e7cb34f4-9522-4081-bf15-2ef768ed8225" />
+![Login Screen] (<img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/e7cb34f4-9522-4081-bf15-2ef768ed8225" />
 )  
-![Signup Screen](<img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/685fd88f-6f1e-4396-8471-90f5b6d92af5" />)  
+![Signup Screen] (<img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/685fd88f-6f1e-4396-8471-90f5b6d92af5" />)  
 
 ### 2. Dashboard
 - Fetches and displays tasks via API  
